@@ -466,7 +466,7 @@ body.fixed {
 
 .showcase {
   padding: 202px 0 119px;
-  background-image: url(../images/bg.png);
+  background-image: url(../images/bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1192,11 +1192,11 @@ body.fixed {
 }
 
 .packages__block:nth-child(2) .packages__head {
-  background: linear-gradient(180deg, #42434a -10.94%, rgba(66, 67, 74, 0) 100%), url(../images/packages2.png);
+  background: linear-gradient(180deg, #42434a -10.94%, rgba(66, 67, 74, 0) 100%), url(../images/packages2.webp);
 }
 
 .packages__head {
-  background: linear-gradient(180deg, #42434a -10.94%, rgba(66, 67, 74, 0) 100%), url(../images/packages1.png);
+  background: linear-gradient(180deg, #42434a -10.94%, rgba(66, 67, 74, 0) 100%), url(../images/packages1.webp);
   font-weight: 700;
   font-size: 32px;
   line-height: 37px;
@@ -1700,7 +1700,7 @@ body.fixed {
 .director__img::before {
   content: "";
   position: absolute;
-  background-image: url(../images/director-decor.png);
+  background-image: url(../images/director-decor.webp);
   background-size: contain;
   background-repeat: no-repeat;
   width: 234px;
